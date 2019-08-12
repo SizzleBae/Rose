@@ -1,0 +1,108 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:5000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\RoseEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.h.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\RoseAnimatedSpriteComponent.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\RoseDirectionalSpriteComponent.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\RoseSpriteComponent.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\House.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\HouseBuilder.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\IGAIPlayerController.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\IGGameMode.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\IGPlayerCamera.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\IGPlayerCharacter.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\IGPlayerController.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\Door.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\SpringTrap.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\TileActor.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\TileActorHolder.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\TileBuildableComponent.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\TileOverlay.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\TileTrackerComponent.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\Rose.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\Door.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\House.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\HouseBuilder.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\IGAIPlayerController.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\IGGameMode.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\IGPlayerCamera.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\IGPlayerCharacter.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\IGPlayerController.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\Rose.init.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\RoseAnimatedSpriteComponent.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\RoseDirectionalSpriteComponent.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\RoseSpriteComponent.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\SpringTrap.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\TileActor.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\TileActorHolder.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\TileBuildableComponent.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\TileOverlay.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\TileTrackerComponent.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\Default.rc2.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Development\Paper2D\UE4Editor-Paper2D.lib"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\AIModule\UE4Editor-AIModule.lib"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Development\ProceduralMeshComponent\UE4Editor-ProceduralMeshComponent.lib"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\NavigationSystem\UE4Editor-NavigationSystem.lib"
+/OUT:"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Binaries\Win64\UE4Editor-Rose-1940-Win64-DebugGame.dll"
+/IMPLIB:"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\UE4Editor-Rose-1940-Win64-DebugGame.suppressed.lib"
+/PDB:"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Binaries\Win64\UE4Editor-Rose-1940-Win64-DebugGame.pdb"
+/ignore:4078
+/INCLUDE:IMPLEMENT_MODULE_Rose

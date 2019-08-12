@@ -1,0 +1,34 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Rose-1521.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\RoseEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\IGAIPlayerController.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\IGGameMode.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\IGPlayerCamera.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\IGPlayerCharacter.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\IGPlayerController.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\TileActor.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\TileActorHolder.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\House.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\HouseBuilder.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\Rose.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\TileTrackerComponent.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\House.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\HouseBuilder.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\IGAIPlayerController.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\IGGameMode.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\IGPlayerCamera.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\IGPlayerCharacter.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\IGPlayerController.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\Rose.init.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\TileActor.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\TileActorHolder.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\TileTrackerComponent.gen.cpp.obj"
+"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\Default.rc2.res"
+/OUT:"C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Development\Rose\UE4Editor-Rose-1521.lib"
+/INCLUDE:IMPLEMENT_MODULE_Rose

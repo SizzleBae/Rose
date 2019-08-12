@@ -1,0 +1,8 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#include "Rose.h"
+#include "Modules/ModuleManager.h"
+
+IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, Rose, "Rose" );
+
+DEFINE_LOG_CATEGORY(LogIG);

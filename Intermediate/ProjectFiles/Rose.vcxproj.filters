@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Rose.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{BE60DD06-EB81-460B-8332-DF9EA471C6BC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Rose.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RoseEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A179304E-22BA-4420-AD27-87D12A0EC175}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Rose">
+      <UniqueIdentifier>{CE8A85A7-082D-4E2C-9555-4458A260C6C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Rose\Rose.Build.cs">
+      <Filter>Source\Rose</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Rose\Rose.cpp">
+      <Filter>Source\Rose</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\Rose.h">
+      <Filter>Source\Rose</Filter>
+    </ClInclude>
+    <Filter Include="Source\Rose\Components">
+      <UniqueIdentifier>{CF563A28-3B37-46DD-B999-F9B5DA42B836}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Rose\House">
+      <UniqueIdentifier>{F8ADEC23-BCC3-4386-AFCB-4D52D0346E9B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Rose\House\House.cpp">
+      <Filter>Source\Rose\House</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\House\House.h">
+      <Filter>Source\Rose\House</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rose\House\HouseBuilder.cpp">
+      <Filter>Source\Rose\House</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\House\HouseBuilder.h">
+      <Filter>Source\Rose\House</Filter>
+    </ClInclude>
+    <Filter Include="Source\Rose\Standard">
+      <UniqueIdentifier>{8D5170E7-B5E3-44B8-9FC1-ACCD95C513EC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Rose\Standard\IGAIPlayerController.cpp">
+      <Filter>Source\Rose\Standard</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\Standard\IGAIPlayerController.h">
+      <Filter>Source\Rose\Standard</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rose\Standard\IGGameMode.cpp">
+      <Filter>Source\Rose\Standard</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\Standard\IGGameMode.h">
+      <Filter>Source\Rose\Standard</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rose\Standard\IGPlayerCamera.cpp">
+      <Filter>Source\Rose\Standard</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\Standard\IGPlayerCamera.h">
+      <Filter>Source\Rose\Standard</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rose\Standard\IGPlayerCharacter.cpp">
+      <Filter>Source\Rose\Standard</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\Standard\IGPlayerCharacter.h">
+      <Filter>Source\Rose\Standard</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rose\Standard\IGPlayerController.cpp">
+      <Filter>Source\Rose\Standard</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\Standard\IGPlayerController.h">
+      <Filter>Source\Rose\Standard</Filter>
+    </ClInclude>
+    <Filter Include="Source\Rose\Tile">
+      <UniqueIdentifier>{7586B063-79F4-46F9-9483-9092AC064D09}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Rose\Tile\TileActor.cpp">
+      <Filter>Source\Rose\Tile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\Tile\TileActor.h">
+      <Filter>Source\Rose\Tile</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rose\Tile\TileActorHolder.cpp">
+      <Filter>Source\Rose\Tile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\Tile\TileActorHolder.h">
+      <Filter>Source\Rose\Tile</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rose\Tile\TileBuildableComponent.cpp">
+      <Filter>Source\Rose\Tile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\Tile\TileBuildableComponent.h">
+      <Filter>Source\Rose\Tile</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rose\Tile\TileOverlay.cpp">
+      <Filter>Source\Rose\Tile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\Tile\TileOverlay.h">
+      <Filter>Source\Rose\Tile</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rose\Tile\TileTrackerComponent.cpp">
+      <Filter>Source\Rose\Tile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\Tile\TileTrackerComponent.h">
+      <Filter>Source\Rose\Tile</Filter>
+    </ClInclude>
+    <Filter Include="Source\Rose\Tile\Actor">
+      <UniqueIdentifier>{7BAA964A-CE9F-47FD-B20C-96CBF745CEAE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Rose\Tile\Actor\Door.cpp">
+      <Filter>Source\Rose\Tile\Actor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\Tile\Actor\Door.h">
+      <Filter>Source\Rose\Tile\Actor</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rose\Tile\Actor\SpringTrap.cpp">
+      <Filter>Source\Rose\Tile\Actor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rose\Tile\Actor\SpringTrap.h">
+      <Filter>Source\Rose\Tile\Actor</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Rose\Components\RoseSpriteComponent.cpp">
+      <Filter>Source\Rose\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Rose\Components\RoseDirectionalSpriteComponent.cpp">
+      <Filter>Source\Rose\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Rose\Components\RoseAnimatedSpriteComponent.cpp">
+      <Filter>Source\Rose\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Rose\Interaction\InteractionAction.cpp">
+      <Filter>Source\Rose\Interaction</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Rose\Interaction\InteractionCondition.cpp">
+      <Filter>Source\Rose\Interaction</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Rose\Interaction\Interaction.cpp">
+      <Filter>Source\Rose\Interaction</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Rose\Components\RoseSpriteComponent.h">
+      <Filter>Source\Rose\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Rose\Components\RoseDirectionalSpriteComponent.h">
+      <Filter>Source\Rose\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Rose\Components\RoseAnimatedSpriteComponent.h">
+      <Filter>Source\Rose\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Rose\Interaction\InteractionAction.h">
+      <Filter>Source\Rose\Interaction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Rose\Interaction\InteractionCondition.h">
+      <Filter>Source\Rose\Interaction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Rose\Interaction\Interaction.h">
+      <Filter>Source\Rose\Interaction</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\Rose\Interaction">
+      <UniqueIdentifier>{61c57525-ad42-4422-a343-61956ffa0176}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
