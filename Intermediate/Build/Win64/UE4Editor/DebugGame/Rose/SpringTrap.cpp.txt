@@ -1,7 +1,0 @@
-C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\Definitions.Rose.h
-c:\users\edward\documents\unreal projects\rose 4.22\source\rose\tile\actor\SpringTrap.h
-C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Source\Rose\Tile/TileActor.h
-C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Inc\Rose\TileActor.generated.h
-C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Inc\Rose\SpringTrap.generated.h
-C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Source\Rose\Tile/TileBuildableComponent.h
-C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Inc\Rose\TileBuildableComponent.generated.h

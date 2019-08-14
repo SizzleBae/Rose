@@ -1,5 +1,0 @@
-C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\DebugGame\Rose\Definitions.Rose.h
-c:\users\edward\documents\unreal projects\rose 4.22\source\rose\components\RoseAnimatedSpriteComponent.h
-C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Source\Rose\Components/RoseSpriteComponent.h
-C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Inc\Rose\RoseSpriteComponent.generated.h
-C:\Users\Edward\Documents\Unreal Projects\Rose 4.22\Intermediate\Build\Win64\UE4Editor\Inc\Rose\RoseAnimatedSpriteComponent.generated.h
